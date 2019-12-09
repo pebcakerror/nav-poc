@@ -1,0 +1,27 @@
+.App-Header * {
+  width: 100%;
+  /* border: 1px solid red; */
+}
+
+.App-Header {
+  display: flex;
+}
+
+.App-Header__Global-Search-container {
+}
+
+.App-Header__navigation {
+}
+
+.App-Header__navigation-list {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.App-Header__navigation-item {
+  margin: 0;
+  padding: 0;
+}
